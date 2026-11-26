@@ -1,4 +1,4 @@
-# Third-Party-App-Review
+# Third-Party App Review
 **IAM skills tested:** reviewing what third-party apps are allowed to do with people’s work accounts, and designing an approval rule that stays secure without breaking the business.
 
 <br>
