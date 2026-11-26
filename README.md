@@ -33,7 +33,7 @@ My manager writes:
 
 ## What's the Risk?
 
-Every application should follow an access lifecycle: requests, approvals, ongoing monitoring, regular reviews and timely revocation. What this ticket shows is that applications can gain access without proper approval. That's a governance gap, one that can leave applications with excessive permissions and expose sensitive patient data.
+Every application should follow an access lifecycle: requests, approvals, ongoing monitoring, regular reviews and timely revocation. The phrases "anyone", "any app" and "with one click" point to a gap in consent and approval. That's a governance gap that could allow excessive application permissions and expose sensitive patient data.
 
 <BR>
 
