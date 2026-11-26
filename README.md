@@ -42,16 +42,14 @@ Every application should follow an access lifecycle: requests, approvals, ongoin
 
 <BR>
 
+I framed my investigation around four questions:
 
-### 1. [Investigation question]
+<BR>
 
-
-
-### 2. [Investigation question]
-
-
-
-### 3. [Investigation question]
+1. Which applications present the greatest access risk, and why?
+2. Which existing application permissions are justified, excessive or no longer needed?
+3. How can we contain suspicious application access and limit potential exposure?
+4. How can we govern future application consent without disrupting legitimate business operations?
 
 
 <BR>
