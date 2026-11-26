@@ -33,6 +33,8 @@ My manager writes:
 
 ## What's the Risk?
 
+Every application should follow an access lifecycle: requests, approvals, ongoing monitoring, regular reviews and timely revocation. What this ticket shows is that applications can gain access without proper approval. That's a governance gap, one that can leave applications with excessive permissions and expose sensitive patient data.
+
 <BR>
 
 
