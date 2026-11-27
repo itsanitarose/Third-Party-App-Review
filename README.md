@@ -56,6 +56,20 @@ I framed my investigation around four questions:
 
 ## What I Found
 
+Of the eight applications reviewed, three require priority action.
+
+| Priority | Application | Key Finding |
+|---|---|---|
+| P1 | DocuSharePro | Suspected OAuth consent phishing, with 112 approvals in four calendar days. With activity peaking over the weekend.
+| P2 | ExportBot | Organisation-wide mailbox access, an unchanged secret and no current business owner identified. |
+| P3 | PDF Tools Online | Broad file permissions retained despite 190 days of inactivity. |
+
+<BR>
+
+**MailMerge Plus** and **SignFast** appear legitimate, with permissions that align with their respective business functions.
+
+[Full App Triage](Documents/02.%20App%20Triage.md)
+
 <BR> 
 
 ## Case Study Outcome
