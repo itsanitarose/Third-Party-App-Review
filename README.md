@@ -115,4 +115,16 @@ I would introduce periodic application access reviews to reassess business justi
 
 ## Explore the Investigation
 
+| Document | Focus |
+|---|---|
+| [01. App Inventory & Current Consent Rules](Documents/01.%20App%20Inventory%20%26%20Current%20Consent%20Rules.md) | The eight applications, their permissions and the existing consent rules. |
+| [02. App Triage](Documents/02.%20App%20Triage.md) | Three priority applications and two that appear legitimate despite potentially risky permissions. |
+| [03. Application Access Decisions](Documents/03.%20Application%20Access%20Decisions.md) | Keep, restrict or remove decisions for all eight applications, with reasoning. |
+| [04. DocuSharePro Response](Documents/04.%20DocuSharePro%20Response.md) | Three priority actions to contain suspicious access and investigate potential exposure across 112 accounts. |
+| [05. Proposed Consent Policy](Documents/05.%20Proposed%20Consent%20Policy.md) | Risk-based consent approvals, accountable ownership and business continuity. |
+
+---
+
+[← Week 7: Sign-in Triage & Policy Design](https://github.com/itsanitarose/Sign-in-Triage-Policy-Design) · [All Case Studies](https://github.com/itsanitarose)
+
 
