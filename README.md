@@ -72,9 +72,14 @@ Of the eight applications reviewed, three require priority action.
 
 <BR> 
 
+
+
 ## Case Study Outcome
 
-
+- **Application access:** Keep five applications, restrict ExportBot and remove DocuSharePro and PDF Tools Online. [Access Decisions](Documents/03.%20Application%20Access%20Decisions.md)
+- **Incident response:** Contain DocuSharePro, revoke sessions for all 112 affected users and investigate potential data exposure. [DocuSharePro Response](Documents/04.%20DocuSharePro%20Response.md)
+- **Consent governance:** Introduce risk-based approvals, accountable ownership and consent alerts while preserving Marketing's business operations. [Proposed Consent Policy](Documents/05.%20Proposed%20Consent%20Policy.md)
+  
 <BR>
 
 
