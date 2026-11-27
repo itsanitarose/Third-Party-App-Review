@@ -83,7 +83,24 @@ Of the eight applications reviewed, three require priority action.
 <BR>
 
 
+
+
 ## Reflection & Next Steps
+
+What interested me most about this case was the relationship between access, trust and authority. Northwind had given employees the authority to approve application access without establishing whether they were equipped to assess the consequences of those decisions.
+
+The investigation showed me that risk is rarely defined by a single factor. ExportBot had greater potential for widespread damage, yet DocuSharePro showed stronger signs of an immediate threat: an unverified publisher, no business owner and approvals rising from 6 to 31 to 52 over three days. Meanwhile, HRLink had the largest user count but only basic profile permissions. Context changed the significance of the evidence and, ultimately, my decisions.
+
+DocuSharePro also illustrates the distinction between authentication and authorisation. An identity system can work exactly as intended, verifying the right person through MFA, yet that person may unknowingly grant a malicious application access to sensitive data. **A successfully authenticated user can still make an unsafe authorisation decision. That is why the authority to grant access must itself be governed.**
+
+I also had to consider the consequences of the security controls themselves. Revoking access, restricting permissions or rotating credentials can introduce operational risks if the underlying business dependencies are not understood. ExportBot's nightly reporting and Marketing's reliance on MailMerge Plus required me to balance risk reduction with business continuity.
+
+This is why application access governance requires **judgment at every stage of the access lifecycle:** who can grant access, how much access is justified, who remains accountable for it and when it should be withdrawn.
+
+### Next Step
+
+I would introduce periodic application access reviews to reassess business justification, validate permission scope, confirm ownership and review credential security. Access that is no longer justified should be restricted or revoked.
+
 
 
 <BR>
