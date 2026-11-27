@@ -16,19 +16,26 @@ My manager writes:
 
 <BR>
 
+<BR>
+
 <table>
 <tr>
 <td>
-  
+
 **🛡️ Decision**
 
- **Priority:** [Priority]  
- **Key finding:** [Main finding]  
- **Recommended action:** [What should happen first and why]
+Contain DocuSharePro's access across 112 user accounts and investigate suspected OAuth consent phishing.
+
+Restrict ExportBot's mailbox permissions while preserving nightly reporting, and remove PDF Tools Online's dormant access.
+
+**Access decisions:** 5 keep · 1 restrict · 2 remove.
+
+Replace unrestricted user consent with risk-based approvals, accountable ownership and consent monitoring, while preserving legitimate business access.
 
 </td>
 </tr>
 </table>
+
 <BR><BR>
 
 ## What's the Risk?
